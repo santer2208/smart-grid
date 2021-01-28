@@ -26,7 +26,6 @@ class Base{
                 [roff]: null
             },
             column: {
-                'box-sizing': "border-box",
                 'word-wrap': "break-word",
                 [coffMargin]: null
             },
